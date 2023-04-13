@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cantata+One&display=swap');
+.stil1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: purple;
+}
+.stil2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: pink;
+}
+.stil3{
+    font-family: 'Inspiration', cursive;
+    color: orange;
+}
+.stil4{
+    font-family: 'Inspiration', cursive;
+    color:rgb(167, 106, 116);
+}
+
+.stil5{
+    font-family: 'Inspiration', cursive;
+    color: burlywood
+}
+.stil6{
+    font-family: 'Cantata One', serif;
+    color: black
+}.stil7{
+    font-family: 'Cantata One', serif;
+    color:black
+}

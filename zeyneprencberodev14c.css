@@ -1,0 +1,22 @@
+#ilk{
+    background-color: blue;
+    opacity: 0.5;
+    height: 50px;
+}
+#iki{
+    background-color: gray;
+    opacity: 0.5;
+}
+#üç{
+    background-color: white;
+}
+#dört{
+    background-color: gray;
+    opacity: 0.5;
+}
+#ilk:hover{
+    background-color: purple;
+}
+#üç:hover{
+    background-color: purple;
+}
